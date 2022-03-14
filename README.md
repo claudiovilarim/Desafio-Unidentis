@@ -1,7 +1,7 @@
 # Teste para candidatos à vaga de desenvolvedor PHP Trainee/Júnior
-Olá meu amigo da programação, quero te parabenizar por ter passado pela primeira etapa de seleção, nesta nova etapa você irá fazer três desafios bem simples que vão demonstrar seu real nível de afinidade com as linguágens desejadas. Não estamos exigindo uma experiência prévia, mas é de extrema importância para a gente que você demonstre a que ponto seus estudos o levaram até o momento.
+Olá meu amigo da programação, quero te parabenizar por ter passado pela primeira etapa de seleção, nesta nova etapa você irá fazer três desafios bem simples que vão demonstrar seu real nível de afinidade com as linguagens desejadas. Não estamos exigindo uma experiência prévia, mas é de extrema importância para a gente que você demonstre a que ponto seus estudos o levaram até o momento.
 
-## Instruções desafio 00
+## Instruções desafio 01
 O desafio consiste em fazer uma Calculadora utilizando tudo o que você conhece de PHP, MYSQL, JAVASCRIPT, HTML, CSS, JQUERY, BOOTSTRAP... se souber de mais alguma coisa e quiser implementar isso vai ser ótimo!
 
 Objetivos:
@@ -11,7 +11,7 @@ Objetivos:
 - Pode Utilizar apenas Js ou Jquery se quiser
 - interface interativa, organizada e bonita (fique a vontade para utilizar componentes bootstrap)
 
-## Instruções desafio 01
+## Instruções desafio 02
 O desafio consiste em fazer uma TODO List utilizando tudo o que você conhece de PHP, MYSQL, JAVASCRIPT, HTML, CSS, JQUERY, BOOTSTRAP... se souber de mais alguma coisa e quiser implementar isso vai ser ótimo!
 
 Objetivos:
@@ -42,6 +42,9 @@ Objetivos:
 - BOOTSTRAP
 - PHP
 - PHPMailer
+
+## Enviar arquivos
+Após realizar os desafios você pode nos enviar o link do github onde os arquivos estão.
 
 ### Espero que se divirta com os desafios e principalmente que todos consigam cumprí-los. Lembrem-se feito é melhor que perfeito!
 
